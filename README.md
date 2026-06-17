@@ -60,7 +60,7 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-**Pandey Sulav**
+**[Sulav_Pandey](https://github.com/pandeysulav)**
 
 ## 📧 Support
 
