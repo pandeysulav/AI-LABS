@@ -2,20 +2,19 @@
 
 A comprehensive collection of Artificial Intelligence laboratory coursework for BSC CSIT 4th Semester.
 
-## Overview
+## 📚 Overview
 
 This repository contains all the laboratory assignments, projects, and exercises for the 4th semester of Bachelor of Science in Computer Science and Information Technology (BSC CSIT).
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - Python
 - Jupyter Notebooks
-- Scikit-learn
 - NumPy
 - Pandas
-- TensorFlow/Keras
+- Matplotlib
 
-## Getting Started
+## 🚀 Getting Started
 
 ### Prerequisites
 
@@ -25,54 +24,44 @@ This repository contains all the laboratory assignments, projects, and exercises
 ### Installation
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/pandeysulav/AI-LABS.git
-   cd AI-LABS
-   ```
+```bash
+git clone https://github.com/pandeysulav/AI-LABS.git
+cd AI-LABS
+```
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+2. Launch Jupyter Notebook:
+```bash
+jupyter notebook
+```
 
-3. Launch Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-
-## Usage
+## 💡 Usage
 
 - Navigate to the relevant lab folder
 - Open `.ipynb` files in Jupyter Notebook
 - Follow the instructions in each lab
 
-## Topics Covered
+## 📖 Topics Covered
 
-- Machine Learning Fundamentals
-- Data Analysis and Preprocessing
-- Classification and Regression
-- Natural Language Processing
-- Computer Vision
-- Neural Networks
+- Python Basics
+- NumPy
+- Pandas
+- Matplotlib
+- Data Analysis
+- Implementation
+- EDA (Exploratory Data Analysis)
 
-## Contributing
+## 🤝 Contributing
 
-Contributions and suggestions are welcome! Feel free to:
-- Fork the repository
-- Create a feature branch
-- Submit a Pull Request
+Contributions and suggestions are welcome! Feel free to fork the repository and submit a Pull Request.
 
-## License
+## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
-## Author
+## 👤 Author
 
 **Pandey Sulav**
-- GitHub: [@pandeysulav](https://github.com/pandeysulav)
 
-## Support
+## 📧 Support
 
-For questions or issues:
-- Open an [issue](https://github.com/pandeysulav/AI-LABS/issues)
-- Start a [discussion](https://github.com/pandeysulav/AI-LABS/discussions)
+For questions or issues, open an issue on GitHub.
