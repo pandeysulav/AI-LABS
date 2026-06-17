@@ -1,6 +1,6 @@
 # AI-LABS
 
-A comprehensive collection of Artificial Intelligence laboratory coursework for BSC CSIT 4th Semester.
+A comprehensive collection of Artificial Intelligence laboratory coursework for BSc. CSIT 4th Semester.
 
 ## 📚 Overview
 
