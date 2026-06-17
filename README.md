@@ -56,7 +56,7 @@ Contributions and suggestions are welcome! Feel free to fork the repository and 
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## 👤 Author
 
