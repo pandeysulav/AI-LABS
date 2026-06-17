@@ -21,17 +21,10 @@ This repository contains all the laboratory assignments, projects, and exercises
 - Python 3.7 or higher
 - Jupyter Notebook or JupyterLab
 
-### Installation
-
-1. Clone this repository:
+### Clone this repository:
 ```bash
 git clone https://github.com/pandeysulav/AI-LABS.git
 cd AI-LABS
-```
-
-2. Launch Jupyter Notebook:
-```bash
-jupyter notebook
 ```
 
 ## 💡 Usage
